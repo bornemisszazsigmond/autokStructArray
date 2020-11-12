@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,9 @@ namespace autokStructArray
     {
         static void Main(string[] args)
         {
+            //Fájl beolvasás
+
+            Console.ReadKey();
         }
     }
 }
